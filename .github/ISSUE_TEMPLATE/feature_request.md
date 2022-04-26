@@ -15,4 +15,4 @@ about: Suggest a new feature or changes to existing features
 
 ## Description
 
-<!-- A few sentences describing what it is that you'd like to see in Strawberry. -->
+<!-- A few sentences describing what it is. -->

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a bug report to help us improve the Strawberry GraphQL library
+about: Create a bug report to help us improve
 ---
 <!-- Provide a general summary of the bug in the title above. -->
 
@@ -14,7 +14,7 @@ about: Create a bug report to help us improve the Strawberry GraphQL library
 ## System Information
 
  - Operating system:
- - Strawberry version:
+ - Strawberry version (if applicable):
 
 ## Additional Context
 
