@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest a new feature or changes to existing features
-labels: "bug"
+labels: "feature-request"
 ---
 <!--- Provide a general summary of the changes you want in the title above. -->
 
