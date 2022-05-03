@@ -1,6 +1,7 @@
 ---
 name: Bug report
 about: Create a bug report to help us improve
+labels: "bug"
 ---
 <!-- Provide a general summary of the bug in the title above. -->
 
