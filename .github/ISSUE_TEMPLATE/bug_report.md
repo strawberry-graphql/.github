@@ -15,6 +15,7 @@ labels: "bug"
 ## System Information
 
  - Operating system:
+ - Python version:
  - Strawberry version (if applicable):
 
 ## Additional Context
